@@ -15,4 +15,4 @@ Note: this version of NARX is not compatible with Matlab due to a different orde
 The code in folder 'old version' trains NARX models that have weights interchangeable with Matlab NARX, but they are used as feedforward networks only.
 
 Notebook:
-Contains most up-to-date features such as down-sampling, restore best weights.
+'down_sample.ipynb' contains most up-to-date features such as down-sampling, restore best weights.
