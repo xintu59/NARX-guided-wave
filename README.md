@@ -16,3 +16,15 @@ The code in folder 'old version' trains NARX models that have weights interchang
 
 Notebook:
 'down_sample.ipynb' contains most up-to-date features such as down-sampling, restore best weights.
+
+Please cite the following paper if you've used this code for your research:
+@article{tu2023potential,
+  title={Potential and limitations of NARX for defect detection in guided wave signals},
+  author={Tu, Xin L and Pyle, Richard J and Croxford, Anthony J and Wilcox, Paul D},
+  journal={Structural Health Monitoring},
+  volume={22},
+  number={3},
+  pages={1863--1875},
+  year={2023},
+  publisher={SAGE Publications Sage UK: London, England}
+}
